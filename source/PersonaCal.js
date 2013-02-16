@@ -176,7 +176,7 @@ enyo.kind({
 enyo.kind({
 	name: "WeatherInfoBlock",
 	kind: enyo.Control,
-	classes: "weather-info=block",
+	classes: "weather-info-block",
 	components: [{name: "weatherText"}],
 	published: {
 		weather: null
