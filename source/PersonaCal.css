@@ -1,0 +1,33 @@
+/*
+	Put anything you reference with "url()" in ../assets/
+	This way, you can minify your application, and just remove the "source" folder for production
+*/
+
+body {
+	background-color: #000000;
+	color: #FFFFFF;
+}
+
+.today-background {
+	position: fixed;
+	left: 17.857142857%; /* (((100 - container_margin*2) / 7) + 5)% */
+	top: 0;
+	width: 12.857142857%; /* ((100 - container_margin*2) / 7)% */
+	height: 100%;
+	background-color: #FFFF00;
+	z-index: -1;
+}
+
+.calendar-container {
+	margin: 5%;
+}
+
+.info-block {
+	float: left;
+	width: 14.285714286%; /* (100 / 7)% */
+	text-align: center;
+}
+
+.info-block-today {
+	color: #000000;
+}
