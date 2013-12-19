@@ -1,0 +1,13 @@
+.date-info-block {
+    font-size: 5em;
+    font-weight: bold;
+    letter-spacing: 0.05em;
+    line-height: 0.5em;
+    height: 0.5em;
+    padding-top: 0.05em;
+}
+
+.info-block-today {
+    color: #000000;
+    font-weight: bold;
+}

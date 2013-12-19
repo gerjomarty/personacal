@@ -1,0 +1,10 @@
+.year-headline-date {
+    position: absolute;
+    top: 45%;
+    left: 75%;
+    font-size: 2.8em;
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+    opacity: 0.2;
+    filter:alpha(opacity=20);
+}

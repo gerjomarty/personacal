@@ -1,0 +1,12 @@
+{
+  "id": "uk.me.gm.personacal",
+  "icon": "icon.png",
+  "main": "index.html",
+  "noWindow": false,
+  "dockMode": true,
+  "title": "Persona Calendar",
+  "type": "web",
+  "uiRevision": "3",
+  "vendor": "gerjomarty",
+  "version": "1.0.0"
+}

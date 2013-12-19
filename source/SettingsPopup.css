@@ -1,0 +1,51 @@
+.settings-text > a {
+    color: #FFFFFF;
+}
+
+.city-name {
+    padding: 1px 5px;
+}
+
+.selected {
+    border: 1px solid #FFFFFF;
+    padding: 0 4px;
+}
+
+.settings-input-decorator {
+    width: 50%;
+}
+
+.settings-input {
+    width: 100%;
+}
+
+.api-key-text {
+    height: 6%;
+}
+.api-key-decorator {
+    height: 4%;
+}
+.city-text {
+    height: 6%;
+}
+.city-decorator {
+    height: 4%;
+}
+.city-list {
+    height: 50%;
+    margin: 1% 0;
+}
+.submit-button {
+    margin: 0 5px;
+}
+.cancel-button {
+    margin: 0 5px;
+}
+.source-text {
+    height: 6%;
+    text-align: right;
+}
+.source-image {
+    height: 9%;
+    float: right;
+}

@@ -1,0 +1,9 @@
+.today-background {
+    position: fixed;
+    left: 17.857142857%; /* (((100 - container_margin*2) / 7) + 5)% */
+    top: 0;
+    width: 12.857142857%; /* ((100 - container_margin*2) / 7)% */
+    height: 100%;
+    background-color: #FFFF00;
+    z-index: -10;
+}

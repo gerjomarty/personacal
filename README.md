@@ -1,6 +1,9 @@
-bootplate
-=========
+Persona Calendar
+================
 
-Application template for packaged Enyo
+This is a calendar that looks a bit like the one in Persona 4.
 
-Refer to the [Wiki](https://github.com/enyojs/enyo/wiki/Bootplate) for how to get started.
+It is built using Enyo.js.
+
+See http://gm.me.uk/personacal for more information.
+

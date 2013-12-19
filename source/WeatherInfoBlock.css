@@ -1,0 +1,10 @@
+.weather-info-block {
+    position: relative;
+    margin-top: 1.5em;
+    width: 100%;
+    overflow: hidden;
+}
+
+.weather-info-block-icon {
+    width: 70%;
+}

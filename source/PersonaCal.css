@@ -20,43 +20,8 @@ body {
 	font-family: sakkal-majalla;
 }
 
-.today-background {
-	position: fixed;
-	left: 17.857142857%; /* (((100 - container_margin*2) / 7) + 5)% */
-	top: 0;
-	width: 12.857142857%; /* ((100 - container_margin*2) / 7)% */
-	height: 100%;
-	background-color: #FFFF00;
-	z-index: -10;
-}
-
-.calendar-container {
-	margin: 5%;
-	height: 100%;
-}
-
-.info-block {
-	color: #FFFFFF;
-	float: left;
-	width: 14.285714286%; /* (100 / 7)% */
-	text-align: center;
-}
-
-.day-info-block {
-	text-transform: uppercase;
-	font-size: 2.2em;
-	letter-spacing: 0.1em;
-}
-
-.date-info-block {
-	font-size: 5em;
-	font-weight: bold;
-	letter-spacing: 0.05em;
-	line-height: 0.5em;
-	height: 0.5em;
-}
-
-.info-block-today {
-	color: #000000;
-	font-weight: bold;
+.settings-button {
+	position: absolute;
+	left: 3%;
+	top: 3%;
 }

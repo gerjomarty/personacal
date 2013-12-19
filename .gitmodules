@@ -10,3 +10,6 @@
 [submodule "lib/g11n"]
 	path = lib/g11n
 	url = https://github.com/enyojs/g11n.git
+[submodule "lib/database-webos"]
+	path = lib/database-webos
+	url = https://github.com/onecrayon/database-webos.git

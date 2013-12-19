@@ -1,0 +1,25 @@
+.weather-info-overlay-image {
+    position: absolute;
+    width: 70%;
+    left: 15%;
+    top: 0;
+}
+
+.weather-info-overlay-temp {
+    font-size: 3em;
+    text-align: center;
+    width: 50%;
+    line-height: 0.8em;
+}
+
+.weather-info-overlay-max-temp {
+    position: absolute;
+    left: 15%;
+    top: 3%;
+}
+
+.weather-info-overlay-min-temp {
+    position: absolute;
+    left: 35%;
+    top: 47%;
+}
